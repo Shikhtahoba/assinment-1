@@ -17,7 +17,7 @@
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
-    filter: brightness(60%);
+    filter: brightness(80%);
     
 }
 .header-title{
@@ -337,6 +337,63 @@ text-decoration: none;
     padding: 10px;
     width: 200px;
 
+}
+
+
+/* footer section code start */
+
+
+.ff{
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    height: 400px;
+    
+    
+    
+}
+
+
+.footer-1{
+  display: flex;
+  gap: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: space-between;
+  margin-top: 60px;
+  padding: 100px;
+}
+.footer-span{
+    font-size: 10px;
+    padding-left: 10px;
+    color: white;
+}
+.footer-2{
+    display: flex;
+    gap: 15px;
+    
+    margin-left: 40%;
+}
+.fot-2 >img{
+    width: 30px;
+    height: 30px;
+}
+.footer-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.aa >i{
+    color: white;
+}
+.foote-3 >p{
+    margin-bottom: 100px;
+}
+.ss{
+    padding-bottom: 50px;
 }
 
 
